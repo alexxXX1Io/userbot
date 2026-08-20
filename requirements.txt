@@ -1,0 +1,6 @@
+telethon
+google-genai
+SpeechRecognition
+ffmpeg-python
+pytz
+python-dotenv
